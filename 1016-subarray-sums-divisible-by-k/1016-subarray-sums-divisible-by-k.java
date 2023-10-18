@@ -1,5 +1,14 @@
 class Solution {
     public int subarraysDivByK(int[] nums, int k) {
+
+
+        //.        4 5 0 -2 -3 1
+        //sum 0.   4 9 9  7  4 5
+        //rem 0.   4 4 4. 2. 4 0
+        // if rem negative, do +k
+
+
+
         int ans =0;
         HashMap<Integer, Integer> map = new HashMap<>();
         map.put(0,1);
