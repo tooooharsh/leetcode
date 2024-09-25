@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tooooharsh/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/tooooharsh/leetcode/tree/master/0011-container-with-most-water) |
 | [0128-longest-consecutive-sequence](https://github.com/tooooharsh/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/tooooharsh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/tooooharsh/leetcode/tree/master/0217-contains-duplicate) |
@@ -101,6 +102,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tooooharsh/leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/tooooharsh/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/tooooharsh/leetcode/tree/master/0141-linked-list-cycle) |
 ## Sliding Window
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tooooharsh/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/tooooharsh/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
