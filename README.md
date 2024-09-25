@@ -32,6 +32,7 @@
 | [0001-two-sum](https://github.com/tooooharsh/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/tooooharsh/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/tooooharsh/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tooooharsh/leetcode/tree/master/0242-valid-anagram) |
 ## Tree
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/tooooharsh/leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tooooharsh/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Design
 |  |
@@ -112,4 +114,5 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/tooooharsh/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tooooharsh/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
