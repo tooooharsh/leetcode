@@ -31,6 +31,7 @@
 | [0238-product-of-array-except-self](https://github.com/tooooharsh/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/tooooharsh/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tooooharsh/leetcode/tree/master/0322-coin-change) |
+| [0658-find-k-closest-elements](https://github.com/tooooharsh/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/tooooharsh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tooooharsh/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0300-longest-increasing-subsequence](https://github.com/tooooharsh/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/tooooharsh/leetcode/tree/master/0658-find-k-closest-elements) |
 ## String
 |  |
 | ------- |
@@ -110,10 +112,12 @@
 | [0011-container-with-most-water](https://github.com/tooooharsh/leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/tooooharsh/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/tooooharsh/leetcode/tree/master/0141-linked-list-cycle) |
+| [0658-find-k-closest-elements](https://github.com/tooooharsh/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tooooharsh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/tooooharsh/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -131,6 +135,7 @@
 | [0056-merge-intervals](https://github.com/tooooharsh/leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/tooooharsh/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tooooharsh/leetcode/tree/master/0242-valid-anagram) |
+| [0658-find-k-closest-elements](https://github.com/tooooharsh/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Union Find
 |  |
 | ------- |
@@ -139,4 +144,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tooooharsh/leetcode/tree/master/0011-container-with-most-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/tooooharsh/leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
