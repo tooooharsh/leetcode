@@ -88,6 +88,7 @@
 | [0125-valid-palindrome](https://github.com/tooooharsh/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tooooharsh/leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tooooharsh/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1304-longest-happy-string](https://github.com/tooooharsh/leetcode/tree/master/1304-longest-happy-string) |
 ## Design
 |  |
 | ------- |
@@ -144,8 +145,10 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tooooharsh/leetcode/tree/master/0011-container-with-most-water) |
+| [1304-longest-happy-string](https://github.com/tooooharsh/leetcode/tree/master/1304-longest-happy-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/tooooharsh/leetcode/tree/master/0658-find-k-closest-elements) |
+| [1304-longest-happy-string](https://github.com/tooooharsh/leetcode/tree/master/1304-longest-happy-string) |
 <!---LeetCode Topics End-->
