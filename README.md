@@ -26,6 +26,7 @@
 | [0011-container-with-most-water](https://github.com/tooooharsh/leetcode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/tooooharsh/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/tooooharsh/leetcode/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/tooooharsh/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/tooooharsh/leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/tooooharsh/leetcode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/tooooharsh/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tooooharsh/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/tooooharsh/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/tooooharsh/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/tooooharsh/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tooooharsh/leetcode/tree/master/0213-house-robber-ii) |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tooooharsh/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/tooooharsh/leetcode/tree/master/0055-jump-game) |
 | [1304-longest-happy-string](https://github.com/tooooharsh/leetcode/tree/master/1304-longest-happy-string) |
 ## Heap (Priority Queue)
 |  |
