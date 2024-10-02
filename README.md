@@ -36,6 +36,7 @@
 | [0238-product-of-array-except-self](https://github.com/tooooharsh/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/tooooharsh/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tooooharsh/leetcode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/tooooharsh/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0658-find-k-closest-elements](https://github.com/tooooharsh/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Hash Table
 |  |
@@ -138,6 +139,7 @@
 | [0213-house-robber-ii](https://github.com/tooooharsh/leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/tooooharsh/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tooooharsh/leetcode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/tooooharsh/leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Sorting
 |  |
 | ------- |
