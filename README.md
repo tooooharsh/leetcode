@@ -131,6 +131,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tooooharsh/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/tooooharsh/leetcode/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/tooooharsh/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tooooharsh/leetcode/tree/master/0322-coin-change) |
 ## Sorting
@@ -164,4 +165,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/tooooharsh/leetcode/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tooooharsh/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tooooharsh/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
