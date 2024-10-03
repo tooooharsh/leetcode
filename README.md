@@ -92,6 +92,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tooooharsh/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/tooooharsh/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/tooooharsh/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tooooharsh/leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tooooharsh/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -103,6 +104,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/tooooharsh/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tooooharsh/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Linked List
 |  |
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tooooharsh/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/tooooharsh/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/tooooharsh/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/tooooharsh/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/tooooharsh/leetcode/tree/master/0198-house-robber) |
