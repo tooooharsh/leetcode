@@ -39,6 +39,7 @@
 | [0322-coin-change](https://github.com/tooooharsh/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/tooooharsh/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0658-find-k-closest-elements](https://github.com/tooooharsh/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0907-koko-eating-bananas](https://github.com/tooooharsh/leetcode/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tooooharsh/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0300-longest-increasing-subsequence](https://github.com/tooooharsh/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/tooooharsh/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0907-koko-eating-bananas](https://github.com/tooooharsh/leetcode/tree/master/0907-koko-eating-bananas) |
 ## String
 |  |
 | ------- |
