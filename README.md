@@ -40,6 +40,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/tooooharsh/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0658-find-k-closest-elements](https://github.com/tooooharsh/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/tooooharsh/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1657-find-the-winner-of-an-array-game](https://github.com/tooooharsh/leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,4 +188,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tooooharsh/leetcode/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [1657-find-the-winner-of-an-array-game](https://github.com/tooooharsh/leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
 <!---LeetCode Topics End-->
