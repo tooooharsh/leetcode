@@ -31,6 +31,7 @@
 | [0078-subsets](https://github.com/tooooharsh/leetcode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/tooooharsh/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/tooooharsh/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/tooooharsh/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/tooooharsh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/tooooharsh/leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/tooooharsh/leetcode/tree/master/0217-contains-duplicate) |
@@ -64,6 +65,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/tooooharsh/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/tooooharsh/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tooooharsh/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/tooooharsh/leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tooooharsh/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tooooharsh/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tooooharsh/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -72,6 +74,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/tooooharsh/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tooooharsh/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/tooooharsh/leetcode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tooooharsh/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/tooooharsh/leetcode/tree/master/0322-coin-change) |
 ## Binary Tree
@@ -159,6 +162,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tooooharsh/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/tooooharsh/leetcode/tree/master/0200-number-of-islands) |
 ## Greedy
 |  |
 | ------- |
@@ -192,4 +196,8 @@
 |  |
 | ------- |
 | [1657-find-the-winner-of-an-array-game](https://github.com/tooooharsh/leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/tooooharsh/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
