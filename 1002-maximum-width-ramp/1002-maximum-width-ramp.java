@@ -15,7 +15,8 @@ class Solution {
         
         for (int j = n - 1; j >= 0; j--) {
             while (!s.isEmpty() && nums[s.peek()] <= nums[j]) {
-                ans = Math.max(ans, j - s.pop());
+                int t = s.pop();
+                ans = Math.max(ans, j - t);
             }
         }
         
