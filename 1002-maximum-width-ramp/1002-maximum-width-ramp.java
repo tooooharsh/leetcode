@@ -3,9 +3,10 @@ class Solution {
 
         int n = nums.length;
         Stack<Integer> s = new Stack<>();
+        s.push(0);
         
-        for (int i = 0; i < n; i++) {
-            if ( s.isEmpty() ||nums[s.peek()] > nums[i] ) {
+        for (int i = 1; i < n; i++) {
+            if ( nums[s.peek()] > nums[i] ) {
                 s.push(i);
             }
         }
