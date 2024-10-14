@@ -42,6 +42,7 @@
 | [0658-find-k-closest-elements](https://github.com/tooooharsh/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/tooooharsh/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1002-maximum-width-ramp](https://github.com/tooooharsh/leetcode/tree/master/1002-maximum-width-ramp) |
+| [1036-rotting-oranges](https://github.com/tooooharsh/leetcode/tree/master/1036-rotting-oranges) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/tooooharsh/leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@
 | [0207-course-schedule](https://github.com/tooooharsh/leetcode/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tooooharsh/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/tooooharsh/leetcode/tree/master/0322-coin-change) |
+| [1036-rotting-oranges](https://github.com/tooooharsh/leetcode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tooooharsh/leetcode/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/tooooharsh/leetcode/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
