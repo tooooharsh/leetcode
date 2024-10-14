@@ -41,6 +41,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/tooooharsh/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0658-find-k-closest-elements](https://github.com/tooooharsh/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/tooooharsh/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1002-maximum-width-ramp](https://github.com/tooooharsh/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/tooooharsh/leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
 ## Hash Table
 |  |
@@ -114,6 +115,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/tooooharsh/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tooooharsh/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1002-maximum-width-ramp](https://github.com/tooooharsh/leetcode/tree/master/1002-maximum-width-ramp) |
 ## Linked List
 |  |
 | ------- |
@@ -210,4 +212,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/tooooharsh/leetcode/tree/master/0207-course-schedule) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/tooooharsh/leetcode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
