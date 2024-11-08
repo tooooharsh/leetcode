@@ -29,6 +29,7 @@
 | [0055-jump-game](https://github.com/tooooharsh/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/tooooharsh/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tooooharsh/leetcode/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/tooooharsh/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/tooooharsh/leetcode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/tooooharsh/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/tooooharsh/leetcode/tree/master/0198-house-robber) |
@@ -101,6 +102,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/tooooharsh/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/tooooharsh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tooooharsh/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tooooharsh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -222,6 +224,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/tooooharsh/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/tooooharsh/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tooooharsh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/tooooharsh/leetcode/tree/master/0695-max-area-of-island) |
