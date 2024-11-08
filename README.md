@@ -37,6 +37,7 @@
 | [0213-house-robber-ii](https://github.com/tooooharsh/leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/tooooharsh/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/tooooharsh/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/tooooharsh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/tooooharsh/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tooooharsh/leetcode/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/tooooharsh/leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tooooharsh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tooooharsh/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0240-search-a-2d-matrix-ii](https://github.com/tooooharsh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/tooooharsh/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/tooooharsh/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0658-find-k-closest-elements](https://github.com/tooooharsh/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -221,6 +223,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tooooharsh/leetcode/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/tooooharsh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/tooooharsh/leetcode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/tooooharsh/leetcode/tree/master/1036-rotting-oranges) |
 ## Graph
@@ -235,4 +238,8 @@
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/tooooharsh/leetcode/tree/master/1002-maximum-width-ramp) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/tooooharsh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
