@@ -77,6 +77,7 @@
 | [0207-course-schedule](https://github.com/tooooharsh/leetcode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tooooharsh/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tooooharsh/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/tooooharsh/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0543-diameter-of-binary-tree](https://github.com/tooooharsh/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/tooooharsh/leetcode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
@@ -88,6 +89,7 @@
 | [0207-course-schedule](https://github.com/tooooharsh/leetcode/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tooooharsh/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/tooooharsh/leetcode/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/tooooharsh/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0695-max-area-of-island](https://github.com/tooooharsh/leetcode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/tooooharsh/leetcode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tooooharsh/leetcode/tree/master/0070-climbing-stairs) |
+| [0365-water-and-jug-problem](https://github.com/tooooharsh/leetcode/tree/master/0365-water-and-jug-problem) |
 ## Memoization
 |  |
 | ------- |
