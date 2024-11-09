@@ -31,6 +31,7 @@
 | [0057-insert-interval](https://github.com/tooooharsh/leetcode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/tooooharsh/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/tooooharsh/leetcode/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tooooharsh/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/tooooharsh/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/tooooharsh/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/tooooharsh/leetcode/tree/master/0200-number-of-islands) |
@@ -168,6 +169,7 @@
 | [0032-longest-valid-parentheses](https://github.com/tooooharsh/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/tooooharsh/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/tooooharsh/leetcode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tooooharsh/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/tooooharsh/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tooooharsh/leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/tooooharsh/leetcode/tree/master/0300-longest-increasing-subsequence) |
