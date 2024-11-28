@@ -50,6 +50,7 @@
 | [0907-koko-eating-bananas](https://github.com/tooooharsh/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1002-maximum-width-ramp](https://github.com/tooooharsh/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/tooooharsh/leetcode/tree/master/1036-rotting-oranges) |
+| [1582-design-browser-history](https://github.com/tooooharsh/leetcode/tree/master/1582-design-browser-history) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/tooooharsh/leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
 ## Hash Table
 |  |
@@ -128,17 +129,20 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tooooharsh/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1582-design-browser-history](https://github.com/tooooharsh/leetcode/tree/master/1582-design-browser-history) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/tooooharsh/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tooooharsh/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1002-maximum-width-ramp](https://github.com/tooooharsh/leetcode/tree/master/1002-maximum-width-ramp) |
+| [1582-design-browser-history](https://github.com/tooooharsh/leetcode/tree/master/1582-design-browser-history) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tooooharsh/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/tooooharsh/leetcode/tree/master/0206-reverse-linked-list) |
+| [1582-design-browser-history](https://github.com/tooooharsh/leetcode/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -253,4 +257,12 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/tooooharsh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/tooooharsh/leetcode/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/tooooharsh/leetcode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
