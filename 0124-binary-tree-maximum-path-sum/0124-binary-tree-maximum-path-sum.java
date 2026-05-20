@@ -27,7 +27,7 @@ class Solution {
         int left = Math.max(0, helper(root.left));
         int right = Math.max(0, helper(root.right));
 
-        
+        //left ka value + right ka value + root ka max
         maxima = Math.max(maxima, left + right + root.val);
 
         return root.val + Math.max(left, right);
