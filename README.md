@@ -52,6 +52,7 @@
 | [1036-rotting-oranges](https://github.com/tooooharsh/leetcode/tree/master/1036-rotting-oranges) |
 | [1582-design-browser-history](https://github.com/tooooharsh/leetcode/tree/master/1582-design-browser-history) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/tooooharsh/leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/tooooharsh/leetcode/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tooooharsh/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -281,4 +282,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-design-browser-history](https://github.com/tooooharsh/leetcode/tree/master/1582-design-browser-history) |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/tooooharsh/leetcode/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/tooooharsh/leetcode/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/tooooharsh/leetcode/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
 <!---LeetCode Topics End-->
