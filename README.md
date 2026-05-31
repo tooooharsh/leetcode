@@ -33,6 +33,7 @@
 | [0078-subsets](https://github.com/tooooharsh/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tooooharsh/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/tooooharsh/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/tooooharsh/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/tooooharsh/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/tooooharsh/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/tooooharsh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -62,6 +63,7 @@
 | [0076-minimum-window-substring](https://github.com/tooooharsh/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/tooooharsh/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/tooooharsh/leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/tooooharsh/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/tooooharsh/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tooooharsh/leetcode/tree/master/0242-valid-anagram) |
 ## Tree
@@ -203,6 +205,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/tooooharsh/leetcode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/tooooharsh/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/tooooharsh/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tooooharsh/leetcode/tree/master/0242-valid-anagram) |
 | [0354-russian-doll-envelopes](https://github.com/tooooharsh/leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -273,6 +276,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/tooooharsh/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/tooooharsh/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -294,4 +298,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/tooooharsh/leetcode/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/tooooharsh/leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
