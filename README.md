@@ -67,6 +67,7 @@
 | [0169-majority-element](https://github.com/tooooharsh/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/tooooharsh/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tooooharsh/leetcode/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/tooooharsh/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +138,7 @@
 | [0125-valid-palindrome](https://github.com/tooooharsh/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tooooharsh/leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tooooharsh/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0567-permutation-in-string](https://github.com/tooooharsh/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/tooooharsh/leetcode/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/tooooharsh/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/tooooharsh/leetcode/tree/master/1304-longest-happy-string) |
@@ -170,6 +172,7 @@
 | [0125-valid-palindrome](https://github.com/tooooharsh/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/tooooharsh/leetcode/tree/master/0141-linked-list-cycle) |
 | [0253-meeting-rooms-ii](https://github.com/tooooharsh/leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0567-permutation-in-string](https://github.com/tooooharsh/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/tooooharsh/leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/tooooharsh/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
@@ -178,6 +181,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/tooooharsh/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/tooooharsh/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/tooooharsh/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/tooooharsh/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/tooooharsh/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Prefix Sum
 | Problem Name | Difficulty |
