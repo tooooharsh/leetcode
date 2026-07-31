@@ -46,6 +46,7 @@
 | [0322-coin-change](https://github.com/tooooharsh/leetcode/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/tooooharsh/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/tooooharsh/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/tooooharsh/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/tooooharsh/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/tooooharsh/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/tooooharsh/leetcode/tree/master/0695-max-area-of-island) |
@@ -205,6 +206,7 @@
 | [0337-house-robber-iii](https://github.com/tooooharsh/leetcode/tree/main/0337-house-robber-iii/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/tooooharsh/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/tooooharsh/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/tooooharsh/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/tooooharsh/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/tooooharsh/leetcode/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/tooooharsh/leetcode/tree/master/1250-longest-common-subsequence) |
@@ -217,6 +219,7 @@
 | [0242-valid-anagram](https://github.com/tooooharsh/leetcode/tree/master/0242-valid-anagram) |
 | [0253-meeting-rooms-ii](https://github.com/tooooharsh/leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/tooooharsh/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0435-non-overlapping-intervals](https://github.com/tooooharsh/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/tooooharsh/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/tooooharsh/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Union Find
@@ -231,6 +234,7 @@
 | [0011-container-with-most-water](https://github.com/tooooharsh/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/tooooharsh/leetcode/tree/master/0055-jump-game) |
 | [0253-meeting-rooms-ii](https://github.com/tooooharsh/leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/tooooharsh/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/tooooharsh/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1304-longest-happy-string](https://github.com/tooooharsh/leetcode/tree/master/1304-longest-happy-string) |
 ## Heap (Priority Queue)
