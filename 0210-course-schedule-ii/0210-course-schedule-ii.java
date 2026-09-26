@@ -45,7 +45,7 @@ class Solution {
             }
         }
 
-        // Cycle exists
+        //Cycle exists
         if (index != numCourses) {
             return new int[0];
         }
