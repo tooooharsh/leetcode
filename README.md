@@ -52,6 +52,7 @@
 | [0695-max-area-of-island](https://github.com/tooooharsh/leetcode/tree/master/0695-max-area-of-island) |
 | [0907-koko-eating-bananas](https://github.com/tooooharsh/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1002-maximum-width-ramp](https://github.com/tooooharsh/leetcode/tree/master/1002-maximum-width-ramp) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/tooooharsh/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1036-rotting-oranges](https://github.com/tooooharsh/leetcode/tree/master/1036-rotting-oranges) |
 | [1582-design-browser-history](https://github.com/tooooharsh/leetcode/tree/master/1582-design-browser-history) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/tooooharsh/leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
@@ -129,6 +130,7 @@
 | [0354-russian-doll-envelopes](https://github.com/tooooharsh/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0658-find-k-closest-elements](https://github.com/tooooharsh/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/tooooharsh/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/tooooharsh/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
