@@ -90,6 +90,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/tooooharsh/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/tooooharsh/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tooooharsh/leetcode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/tooooharsh/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tooooharsh/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tooooharsh/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/tooooharsh/leetcode/tree/main/0337-house-robber-iii/) | Medium |
@@ -103,6 +104,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/tooooharsh/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/tooooharsh/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tooooharsh/leetcode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/tooooharsh/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tooooharsh/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/tooooharsh/leetcode/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/tooooharsh/leetcode/tree/master/0365-water-and-jug-problem) |
@@ -285,6 +287,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/tooooharsh/leetcode/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/tooooharsh/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,4 +321,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/tooooharsh/leetcode/tree/main/0169-majority-element/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/tooooharsh/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 <!---LeetCode Topics End-->
