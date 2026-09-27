@@ -150,6 +150,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/tooooharsh/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tooooharsh/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1582-design-browser-history](https://github.com/tooooharsh/leetcode/tree/master/1582-design-browser-history) |
 ## Stack
@@ -177,6 +178,7 @@
 | [0125-valid-palindrome](https://github.com/tooooharsh/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/tooooharsh/leetcode/tree/master/0141-linked-list-cycle) |
 | [0253-meeting-rooms-ii](https://github.com/tooooharsh/leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/tooooharsh/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0567-permutation-in-string](https://github.com/tooooharsh/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/tooooharsh/leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/tooooharsh/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -222,6 +224,7 @@
 | [0217-contains-duplicate](https://github.com/tooooharsh/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tooooharsh/leetcode/tree/master/0242-valid-anagram) |
 | [0253-meeting-rooms-ii](https://github.com/tooooharsh/leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/tooooharsh/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0354-russian-doll-envelopes](https://github.com/tooooharsh/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/tooooharsh/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/tooooharsh/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -245,6 +248,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0253-meeting-rooms-ii](https://github.com/tooooharsh/leetcode/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/tooooharsh/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/tooooharsh/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1304-longest-happy-string](https://github.com/tooooharsh/leetcode/tree/master/1304-longest-happy-string) |
 ## Backtracking
@@ -304,6 +308,7 @@
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/tooooharsh/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1582-design-browser-history](https://github.com/tooooharsh/leetcode/tree/master/1582-design-browser-history) |
 ## Rolling Hash
 | Problem Name | Difficulty |
